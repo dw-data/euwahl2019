@@ -6,6 +6,6 @@ Support for extremist parties remains limited, with signs of protest voting arou
 
 Published article: [No new dawn for far right in European election](https://www.dw.com/en/no-new-dawn-for-far-right-in-european-election/a-48945615)
 
-![](charts/bar-chart.png)
+![](charts/bar_chart.png)
 
-![](charts/slope-chart.png)
+![](charts/slope_chart.png)
